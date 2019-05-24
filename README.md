@@ -1,6 +1,6 @@
-# Learning Through Competition
+# Containers
 
-Security Training via Capture The Flag events.
+Short lightning talk on containers and how to control them with Docker
 
-`cd` and open `docs/index.html` or visit https://alexflor.es/ctf-talk
+`cd` and open `docs/index.html` or run `./remarked`
 
