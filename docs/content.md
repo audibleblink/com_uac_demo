@@ -1,7 +1,7 @@
 class: center, middle, inverse
 # Containers
 [and managing them with Docker]
-.footnote[View source on [GitHub](https://github.com/audibleblink/ctf-talk)]
+.footnote[View source on [GitHub](https://github.com/audibleblink/containers-intro)]
 
 ---
 layout: false
@@ -44,15 +44,15 @@ class: center, middle, inverse
 ]
 
 .right-column[
-# A logical unit of linux kernel features
+# A logical unit of Linux kernel features
 .paragraph[
-containers are processes
+Containers are processes
 
-distributed as tarballs
+Distributed as tarballs
 
-anchored to namespaces
+Anchored to namespaces
 
-controlled by cgroups
+Controlled by CGroups
 ]
 ]
 
@@ -62,7 +62,7 @@ controlled by cgroups
 # What's a Namespace
 ]
 
-## Additional Flags Passes to Process Creation Syscalls
+## Additional Flags Passed to Process-Creation Syscalls
 .right-column[
 
 When creating a process, you can restrict what this process can see
