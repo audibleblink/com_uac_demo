@@ -1,5 +1,5 @@
 # Set the title that should be rendered in the browser's title bar.
-title: What is Docker
+title: UAC and COM
 
 # Set the path to a local CSS file for remarked to serve.
 stylesheet: docs/main.css
@@ -12,8 +12,8 @@ remarkJS: docs/remark.js
 templateFile: docs/template.html
 
 # The folder that should be served under /static. Default: none
-# staticFolder: ./docs
-#
+staticFolder: ./static
+
 # If you want to use some of Go's template constructs inside the
 # markdown file, enable this:
 # markdownAsTemplate: false
